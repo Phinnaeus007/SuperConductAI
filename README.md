@@ -42,7 +42,7 @@ experimental synthesis.
 ## 6. How to Test
 To check if the data loading works correctly, run this command:
 ```bash
-python tests/test_data_loader.py
+python test/test_data_loader.py
 ```
 ## Precaution:
 Make sure your directory is SuperConductAI before running
